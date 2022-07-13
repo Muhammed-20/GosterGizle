@@ -1,0 +1,33 @@
+.ortala{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+    max-width: 100vh;
+    flex-direction: column;
+
+}
+
+
+
+
+.d1, .d2{
+    background-color: blue;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin-bottom: 50px;
+}
+.d2{
+    background-color: blueviolet;
+}
+
+.gizle{
+    display: none;
+}
+.goster{
+    display: block;
+}
+.gecis{
+    display: none;
+}
